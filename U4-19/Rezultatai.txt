@@ -1,0 +1,57 @@
+|------------------------------------------------------------------------|
+| Pirmas padalinis:                                                      |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Prutas Pranas       | PadalinisA       | Pirmadienis    |     01:50:00 |
+| Luktas Asta         | PadalinisA       | Penktadienis   |     08:22:00 |
+| Pirmas Rukas        | PadalinisA       | Penktadienis   |     01:13:00 |
+|------------------------------------------------------------------------|
+| Antras padalinis:                                                      |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Juozaitis Juozas    | PadalinisB       | Ketvirtadienis |     05:24:00 |
+| Luktas Lakas        | PadalinisB       | Pirmadienis    |     04:14:00 |
+| Antanaitis Antanas  | PadalinisB       | Penktadienis   |     05:55:00 |
+| Ramunaite Raima     | PadalinisB       | Treciadienis   |     08:53:00 |
+| Uta Jona            | PadalinisB       | Antradienis    |     01:50:00 |
+| Konkoro Konkoro     | PadalinisB       | Ketvirtadienis |     05:30:00 |
+| Shun Shanas         | PadalinisB       | Sestadienis    |     01:17:00 |
+| Savataris Tau       | PadalinisB       | Pirmadienis    |     10:26:00 |
+|------------------------------------------------------------------------|
+| Nauji darbuotojai:                                                     |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Ramunaite Raima     | Nauji Darbotojai | Pirmadienis    |     05:41:00 |
+|------------------------------------------------------------------------|
+|Imones darbotojai is viso dirbo:                              2.06:54:00|
+|------------------------------------------------------------------------|
+|Darbsciausias imones darbotojas: Savataris Tau                          |
+|------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
+| Darbuotojai dirbantis pirmoje pamainoje:                               |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Prutas Pranas       | PadalinisA       | Pirmadienis    |     01:50:00 |
+| Antanaitis Antanas  | PadalinisB       | Penktadienis   |     05:55:00 |
+| Uta Jona            | PadalinisB       | Antradienis    |     01:50:00 |
+|------------------------------------------------------------------------|
+| Surikuotas sarasas:                                                    |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Antanaitis Antanas  | PadalinisB       | Penktadienis   |     05:55:00 |
+| Uta Jona            | PadalinisB       | Antradienis    |     01:50:00 |
+| Prutas Pranas       | PadalinisA       | Pirmadienis    |     01:50:00 |
+|------------------------------------------------------------------------|
+| Papildytas sarasas                                                     |
+|------------------------------------------------------------------------|
+| Pavarde ir vardas   | Padalinis        | Diena          | Darbo laikas |
+|------------------------------------------------------------------------|
+| Antanaitis Antanas  | PadalinisB       | Penktadienis   |     05:55:00 |
+| Ramunaite Raima     | Nauji Darbotojai | Pirmadienis    |     05:41:00 |
+| Uta Jona            | PadalinisB       | Antradienis    |     01:50:00 |
+| Prutas Pranas       | PadalinisA       | Pirmadienis    |     01:50:00 |

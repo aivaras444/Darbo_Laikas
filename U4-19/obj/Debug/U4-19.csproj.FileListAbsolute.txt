@@ -1,0 +1,30 @@
+C:\Users\aivzau\Desktop\U4-19\U4-19\bin\Debug\U4-19.exe.config
+C:\Users\aivzau\Desktop\U4-19\U4-19\bin\Debug\U4-19.exe
+C:\Users\aivzau\Desktop\U4-19\U4-19\bin\Debug\U4-19.pdb
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4-19.csprojAssemblyReference.cache
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4_19.Form1.resources
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4_19.Properties.Resources.resources
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4-19.csproj.GenerateResource.cache
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4-19.csproj.CoreCompileInputs.cache
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4-19.exe
+C:\Users\aivzau\Desktop\U4-19\U4-19\obj\Debug\U4-19.pdb
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\bin\Debug\U4-19.exe.config
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\bin\Debug\U4-19.exe
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\bin\Debug\U4-19.pdb
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4-19.csprojAssemblyReference.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4_19.Form1.resources
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4_19.Properties.Resources.resources
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4-19.csproj.GenerateResource.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4-19.csproj.CoreCompileInputs.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4-19.exe
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\U4-19\U4-19\obj\Debug\U4-19.pdb
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\bin\Debug\U4-19.exe.config
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\bin\Debug\U4-19.exe
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\bin\Debug\U4-19.pdb
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4-19.csprojAssemblyReference.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4_19.Form1.resources
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4_19.Properties.Resources.resources
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4-19.csproj.GenerateResource.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4-19.csproj.CoreCompileInputs.cache
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4-19.exe
+C:\Users\aivar\OneDrive\Stalinis kompiuteris\KTU\C#\U4-19\U4-19\obj\Debug\U4-19.pdb

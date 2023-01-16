@@ -1,0 +1,9 @@
+﻿PadalinisB
+Juozaitis Juozas;Ketvirtadienis;02:25;07:49;
+Luktas Lakas;Pirmadienis;18:06;22:20;
+Antanaitis Antanas;Penktadienis;08:52;14:47;
+Ramunaite Raima;Treciadienis;04:12;13:05;
+Uta Jona;Antradienis;15:10;17:00;
+Konkoro Konkoro;Ketvirtadienis;00:21;05:51;
+Shun Shanas;Sestadienis;03:40;04:57;
+Savataris Tau;Pirmadienis;06:02;16:28;

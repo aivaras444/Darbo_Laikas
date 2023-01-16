@@ -1,0 +1,4 @@
+﻿PadalinisA
+Prutas Pranas;Pirmadienis;08:32;10:22;
+Luktas Asta;Penktadienis;07:32;15:54;
+Pirmas Rukas;Penktadienis;21:59;23:12;
