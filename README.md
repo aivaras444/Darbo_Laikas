@@ -8,7 +8,7 @@ Programa turi atlikti tokias funkcijas:
   - Papildykite surikiuotą sąrašą naujais darbuotojais, kurių sąrašas atskirame faile (L4.txt).
 # Grafinės vartotojo sąsajos schema ir paveikslas
 ![manual](https://user-images.githubusercontent.com/122387396/212961232-8bcbb82f-febb-4cc9-8f96-bd86877be223.png)
-  **1.** Meniu atidarimo mygtukas                                     **5.** g
+  1. Meniu atidarimo mygtukas                                    
   **2.** Duomenu įvedimo mygtukas
   **3.** Mygtukas suskaiciuoti kiek laiko įmonės darbuotojai dirbo
   **4.** Mygtukas rasti daugiausiai išdirbusi įmonės darbuotoju
