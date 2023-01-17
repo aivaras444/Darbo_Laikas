@@ -16,4 +16,4 @@ Programa turi atlikti tokias funkcijas:
   6. Mygtukas surikiuoti pirmos pamainos darbuotojų sąrašą
   7. Mygtukas papildyti pirmos pamainos darbuotojų sąrašą naujais darbuotojais
   8. Mygtukas uždaryti programą
-# Programos naudojimas
+# Programos veikimas
