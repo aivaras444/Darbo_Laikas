@@ -9,7 +9,11 @@ Programa turi atlikti tokias funkcijas:
 # Grafinės vartotojo sąsajos schema ir paveikslas
 ![manual](https://user-images.githubusercontent.com/122387396/212961232-8bcbb82f-febb-4cc9-8f96-bd86877be223.png)
   1. Meniu atidarimo mygtukas                                    
-  **2.** Duomenu įvedimo mygtukas
-  **3.** Mygtukas suskaiciuoti kiek laiko įmonės darbuotojai dirbo
-  **4.** Mygtukas rasti daugiausiai išdirbusi įmonės darbuotoju
+  2. Duomenu įvedimo mygtukas
+  3. Mygtukas suskaiciuoti kiek laiko įmonės darbuotojai dirbo
+  4. Mygtukas rasti daugiausiai išdirbusi įmonės darbuotoju
+  5. Mygtukas suformuoti darbuotoju sąraša, kurie dirbo pirmoje pamainoje
+  6. Mygtukas surikiuoti pirmos pamainos darbuotojų sąrašą
+  7. Mygtukas papildyti pirmos pamainos darbuotojų sąrašą naujais darbuotojais
+  8. Mygtukas uždaryti programą
 # Programos naudojimas
