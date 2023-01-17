@@ -8,3 +8,4 @@ Programa turi atlikti tokias funkcijas:
   - Papildykite surikiuotą sąrašą naujais darbuotojais, kurių sąrašas atskirame faile (L4.txt).
 # Grafinės vartotojo sąsajos schema ir paveikslas
 ![First](https://user-images.githubusercontent.com/122387396/212897410-ded5e7ec-861c-4352-ac6d-76fc0fa16a0c.png)
+# Programos naudojimas
