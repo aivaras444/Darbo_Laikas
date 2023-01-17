@@ -7,6 +7,6 @@ Programa turi atlikti tokias funkcijas:
   - Sąrašą surikiuokite darbo trukmės mažėjimo tvarka ir pagal pavardes.
   - Papildykite surikiuotą sąrašą naujais darbuotojais, kurių sąrašas atskirame faile (L4.txt).
 # Grafinės vartotojo sąsajos schema ir paveikslas
-![Meniu](https://user-images.githubusercontent.com/122387396/212959092-f425d87b-04f4-4155-8c89-a4f50da0c317.png)![2-8](https://user-images.githubusercontent.com/122387396/212959710-bc0cb627-c386-4329-9eec-0bb810db689b.png)
+![manual](https://user-images.githubusercontent.com/122387396/212961232-8bcbb82f-febb-4cc9-8f96-bd86877be223.png)
 **1.** Meniu mygtukas
 # Programos naudojimas
