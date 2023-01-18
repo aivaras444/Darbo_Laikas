@@ -17,11 +17,11 @@ Tikslas parašyti programa kuri atliktu tokias funkcijas:
   6. Sąrašo rikievimo mygtukas
   7. Sąrašo papildymo mygtukas
   8. Programos uždarimo mygtukas
-# Programos veikimas
-Paleidus programa nuskaitity duomenis essancios duomenu faile galite pasirinkia **Menu** -> **Įvesti**. Įvesti duomenis ir rezultatai bus ruoduomi programos langia, tai pat bus įrašiti į failą **Rezultatai.txt**.![pav2](https://user-images.githubusercontent.com/122387396/213175680-f33a3472-6a7d-41be-805e-19c9429923bc.png)
-Norėdami sužinoti kiek išviso įmonės darbotojai laiko dirbo pasirinkit **Menu** -> **Kiek dirbo**.![pav3](https://user-images.githubusercontent.com/122387396/213175785-6c337dc3-48b2-4c2b-b5ed-6b4b42d06b5e.png)
-Norėdami rasti kuris darbuotojas dirbo daugiausiai šia savaite pasirinkit **Menu** -> **Darbščiausias darbuotojas**.![pav4](https://user-images.githubusercontent.com/122387396/213175916-0940d419-30d0-4f90-8db4-76ebc3a67acb.png)
-Norėdami suformoti darbuotojų, kurie dirbo pirmoje pamainoje bendrą sąrašą pasirinkit **Menu** -> **Naujas sąrašas**.![pav5](https://user-images.githubusercontent.com/122387396/213176012-96497809-577c-4e87-a7c8-dfbb7b8ad082.png)
-Norėdami surikiuoti sąrašą pasirinkit **Menu** -> **Rikuoti**.![pav6](https://user-images.githubusercontent.com/122387396/213176181-9f73cb44-8dfa-41fc-b561-fe16d33039c5.png)
-Norėdami papildyti surikiuotą sąrašą naujais darbuotojais pasirinkit **Menu** -> **Papildyti**.![pav7](https://user-images.githubusercontent.com/122387396/213176258-5d7bfa3b-b378-4ab3-a25e-e0e13d29be92.png)
-Norėdami uždariti programos langą pasirinkit **Menu** -> **Baigti**.
+# Programos testavimas
+Visi duomenis ir rezultatai bus ruoduomi programos langia, tai pat bus įrašiti į failą **Rezultatai.txt**.
+  - **Menu** -> **Įvesti**![pav2](https://user-images.githubusercontent.com/122387396/213175680-f33a3472-6a7d-41be-805e-19c9429923bc.png)
+  - **Menu** -> **Kiek dirbo**.![pav3](https://user-images.githubusercontent.com/122387396/213175785-6c337dc3-48b2-4c2b-b5ed-6b4b42d06b5e.png)
+  - **Menu** -> **Darbščiausias darbuotojas**.![pav4](https://user-images.githubusercontent.com/122387396/213175916-0940d419-30d0-4f90-8db4-76ebc3a67acb.png)
+  - **Menu** -> **Naujas sąrašas**.![pav5](https://user-images.githubusercontent.com/122387396/213176012-96497809-577c-4e87-a7c8-dfbb7b8ad082.png)
+  - **Menu** -> **Rikuoti**.![pav6](https://user-images.githubusercontent.com/122387396/213176181-9f73cb44-8dfa-41fc-b561-fe16d33039c5.png)
+  - **Menu** -> **Papildyti**.![pav7](https://user-images.githubusercontent.com/122387396/213176258-5d7bfa3b-b378-4ab3-a25e-e0e13d29be92.png)
